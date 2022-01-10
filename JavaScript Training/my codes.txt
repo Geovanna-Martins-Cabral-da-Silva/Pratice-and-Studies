@@ -1,1 +1,2 @@
 Here are my training codes and algorithms in JavaScript
+Aqui estão meus códigos e algoritmos de treino em Javascript
