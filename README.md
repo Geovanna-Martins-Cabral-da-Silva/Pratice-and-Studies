@@ -1,2 +1,2 @@
 # Pratice-and-Studies
-Here are the Javascript codes
+Here are my Javascript codes
