@@ -1,1 +1,2 @@
-Here are activities of the udemy course 
+Here are activities in Javascript of the udemy course 
+Aqui estão minhas atividades em Javascript do curso da udemy
