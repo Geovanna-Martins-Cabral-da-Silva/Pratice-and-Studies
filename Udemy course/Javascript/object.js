@@ -8,3 +8,9 @@ prod1 ['Nice Discount'] = 0.40
     '{ "name" : "Table", "price": 79.90}' //this is a json, a type of string in javascript 
 
 
+const student ={
+    name :'Geovanna',
+    age : 16  
+}
+console.log(student)
+

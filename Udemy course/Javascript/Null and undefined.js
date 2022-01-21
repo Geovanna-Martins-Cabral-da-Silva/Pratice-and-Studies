@@ -1,16 +1,11 @@
-const a = {name: 'Test'}
-console.log( a )
+let value // not initialized (undefined)
+console.log(value)
 
-const b = a 
-b.name = 'Hi'
+value = null //absence of value
+console.log(value)
 
-console.log(b)
-console.log(a)
+//console.log(value.toString()) Error!
 
-let c = 3
-console.log (c)
-
-let d = c 
-d++ //++ adds more 1 at the variable
-console.log(d)
+const prod = {}
+console.log(prod.price)
 
